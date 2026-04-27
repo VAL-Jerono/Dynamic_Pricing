@@ -1,4 +1,4 @@
-# ✈️ Flight Ticket Dynamic Pricing with LSTM
+# Flight Ticket Dynamic Pricing with LSTM
 
 > *"Why does the same seat cost ₹3,500 today but ₹9,200 tomorrow?"*  
 > This project builds a machine learning engine to answer — and predict — exactly that.
